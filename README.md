@@ -171,10 +171,8 @@ This data supports the notion that annual members of Cyclistic use their rides a
 
 To try to strengthen this possible explanation, I chose to inspect the number of rides per hour for our two user types. This showed that while rides for casual riders peak around 5 pm during weekdays, annual members, however, peak between 6- 9 am and 4- 7 pm during weekdays. Along with this, it was found that casual riders and annual members have similar distributions of their start times during weekends, with annual members still performing significantly more rides. This finding strengthens our new hypothesis that annual members use their rides for transportation to and from work, as the data show their rides tend to start at the beginning and end of the workday. 
 
-*The charts below show the distribution of the number of rides per hour split by time of the week and user type. The bar labels represent the average duration of rides at that time.*
+*To see the distribution of the number of rides per hour split by time of the week and user type. with bar labels represent the average duration of rides at that time. please view the image connected to this repository*
 
-![][image1]  
-![][image2]  
 As we see here, the average duration of rides for annual members stays significantly lower than for casual riders. This aligns with the theory that Annual riders' usage differs from casual riders' usage, as annual members use Cyclistic bikes for short commutes while Casual riders use them for leisure. 
 
 # Conclusion
